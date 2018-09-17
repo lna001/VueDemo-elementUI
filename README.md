@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # y
 
 > y
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# VueDemo-elementUI
+前台demo项目
+>>>>>>> 7f47d974b5edfbba172b9a75503d41189bad4d42
